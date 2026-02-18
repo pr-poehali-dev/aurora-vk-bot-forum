@@ -47,9 +47,8 @@ const HeroSection = () => {
           </button>
         </div>
 
-        <div className="mt-20 grid grid-cols-3 gap-8 max-w-lg mx-auto animate-fade-up-delay-3">
+        <div className="mt-20 grid grid-cols-2 gap-8 max-w-sm mx-auto animate-fade-up-delay-3">
           {[
-            { value: "50K+", label: "Пользователей" },
             { value: "99.9%", label: "Аптайм" },
             { value: "24/7", label: "Защита" },
           ].map((stat) => (
