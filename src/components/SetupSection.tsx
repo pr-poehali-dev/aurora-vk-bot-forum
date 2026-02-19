@@ -69,7 +69,7 @@ const SetupSection = () => {
 
         <div className="mt-12 text-center">
           <a
-            href="https://vk.com"
+            href="https://vk.com/auroramanager1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-xl gradient-aurora text-white font-heading font-semibold hover-glow"
